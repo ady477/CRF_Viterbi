@@ -1,2 +1,3 @@
 # CRF_Viterbi
-This is a mini project in NLP course 
+
+This mini project involves structured prediction.
